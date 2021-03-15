@@ -1,0 +1,7 @@
+{
+  "name": "prettier-vscode-1844",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
