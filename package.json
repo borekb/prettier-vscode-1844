@@ -2,6 +2,7 @@
   "name": "prettier-vscode-1844",
   "private": true,
   "devDependencies": {
+    "@yarnpkg/pnpify": "^2.4.0",
     "prettier": "^2.2.1"
   }
 }
