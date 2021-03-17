@@ -2,6 +2,10 @@
 
 Repro for [prettier/prettier-vscode#1844](https://github.com/prettier/prettier-vscode/issues/1844).
 
+## UPDATE
+
+PR [#1](https://github.com/borekb/prettier-vscode-1844/pull/1) adds `@yarnpkg/pnpify` to dependencies, resolving the issue.
+
 ## How to use
 
 1. Clone the repo.
